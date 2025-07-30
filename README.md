@@ -35592,7 +35592,7 @@ else:
 :::
 
 ::: {.output .display_data}
-![](vertopal_c0d3ba151dc04ea3b97a7eca93b47a5b/a649710f5c0fde278c5aeea0e5a6c9987fbf0d4f.png)
+![](vertopal_b5cf43e62f014f95849835daea5f5af4/a649710f5c0fde278c5aeea0e5a6c9987fbf0d4f.png)
 :::
 :::
 
