@@ -8,12 +8,12 @@ religiosos em Juiz de Fora/MG.
 
 **Malha de setores censitários**
 
-Caminho para baixar a malha de setores censitários:
-Página Principal -\> Geociências -\> Organização do território -\> Estrutura
-territorial -\> Malha de Setores Censitários
-Selecione o formato de arquivo desejado: Malha de Setores Censitários -- por UF (shp
-\| gpkg \| kml)`<br>`{=html}`<br>`{=html} Ou acesse o link:`<br>`{=html}
-<https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=organizacao_do_territorio/malhas_territoriais/malhas_de_setores_censitarios__divisoes_intramunicipais/censo_2022/setores/shp/UF>`<br>`{=html}
+Caminho para baixar a malha de setores censitários:<br>
+Página Principal -> Geociências -> Organização do território 
+-> Estrutura territorial ->  Malha de Setores Censitários <br>
+Selecione o formato de arquivo desejado: Malha de Setores Censitários – por UF (shp | gpkg | kml)<br><br>
+Ou acesse o link:<br>
+https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=organizacao_do_territorio/malhas_territoriais/malhas_de_setores_censitarios__divisoes_intramunicipais/censo_2022/setores/shp/UF<br>
 e selecione o arquivo da UF desejada
 
 **Cadastro Nacional de Endereços para Fins Estatísticos**
