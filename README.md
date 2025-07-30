@@ -107,12 +107,14 @@ utilizado em Sistemas de Informação Geográfica, armazena dados espaciais
 e atributos associados (como nome, código IBGE, área, etc.).
 
 Para baixar o shapefile do município de interesse:`<br>`{=html} acesse a
-página: <https://sidra.ibge.gov.br/territorio>`<br>`{=html} clique em
-\"Download de recortes territoriais\"`<br>`{=html} Selecione o ano
-desejado e clique em \"Município \[0/5571\]\"`<br>`{=html} Insira o
-município desejado na caixa de busca`<br>`{=html} Marque a caixa de
-seleção`<br>`{=html} Feche a janela`<br>`{=html} Escolha o formato do
-arquivo: SHAPE`<br>`{=html} Escolha o método de agrupamento`<br>`{=html}
+página: <https://sidra.ibge.gov.br/territorio>
+clique em \"Download de recortes territoriais\"`<br>
+Selecione o ano desejado e clique em \"Município \[0/5571\]\"
+Insira o município desejado na caixa de busca
+Marque a caixa de seleção
+Feche a janela
+Escolha o formato do arquivo: SHAPE
+Escolha o método de agrupamento
 Clique no botão \"Download\".
 
 ### Visualizamos o shapefile
