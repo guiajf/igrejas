@@ -175,7 +175,7 @@ else:
     print("Nenhum dado foi carregado. Verifique o código do município.")
 ```
 
-<img src="mapa_setores_jf.png" alt="Mapa de Setores" width="50%"/>
+<img src="mapa_setores_jf.png" alt="Mapa de Setores" width="75%"/>
 
 ### Mapa coroplético
 
