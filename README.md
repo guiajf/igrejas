@@ -48,7 +48,7 @@ import os
 Um *clustering map* ou mapa de agrupamentos é uma técnica de
 visualização cartográfica que agrega pontos geográficos ou dados
 espaciais em grupos (*clusters*), com base em critérios como
-proximidade, densidade ou atributos similares
+proximidade, densidade ou atributos similares.
 
 ``` python
 # 1. Extrair e filtrar os dados
