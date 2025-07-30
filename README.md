@@ -96,6 +96,8 @@ display(m)  # Para Jupyter Notebook/Lab
 # m.save('igrejas_juiz_de_fora.html')  # Para salvar como HTML
 ```
 
+![](cluster_igrejas_jf.png)
+
 ### Shapefile do município
 
 Um shapefile (.shp) é um arquivo digital que contém a representação
@@ -172,6 +174,8 @@ if not gdf_jf.empty:
 else:
     print("Nenhum dado foi carregado. Verifique o código do município.")
 ```
+
+![](setores_censitarios_jf.png)
 
 ### Mapa coroplético
 
@@ -263,8 +267,7 @@ display(m)
 # m.save('mapa_coropletico_jf.html')
 ```
 
-``` python
-```
+![](densidade_igrejas_jf.png)
 
 Referências:
 
