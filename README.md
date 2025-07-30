@@ -18,17 +18,16 @@ e selecione o arquivo da UF desejada
 
 **Cadastro Nacional de Endereços para Fins Estatísticos**
 
-Caminho para baixar Cadastro Nacional de Endereços para Fins
-Estatísticos: `<br>`{=html} Página Principal -\> Estatísticas -\>
-Sociais -\> População -\> CNEFE - Cadastro Nacional de Endereços para
-Fins Estatísticos.
+Caminho para baixar Cadastro Nacional de Endereços para Fins Estatísticos: <br>
+Página Principal -> Estatísticas -> Sociais -> População ->  CNEFE - Cadastro Nacional de Endereços para Fins Estatísticos.
 
-Ou acesse o link:`<br>`{=html}
-<https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html?=&t=downloads>`<br>`{=html}
-Clique em \"Censo_Demográfico_2022\" -\> Arquivos_CNEFE`<br>`{=html}
-Selecione o formato desejado`<br>`{=html} Escolha a Unidade
-Territorial(Município)`<br>`{=html} Selecione a UF`<br>`{=html} Baixe o
-arquivo compactado do município desejado
+Ou acesse o link:<br>
+https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html?=&t=downloads<br>
+Clique em "Censo_Demográfico_2022" -> Arquivos_CNEFE<br>
+Selecione o formato desejado<br>
+Escolha a Unidade Territorial(Município)<br>
+Selecione a UF<br>
+Baixe o arquivo compactado do município desejado
 
 ## Importamos as bibiotecas
 
