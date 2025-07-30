@@ -269,7 +269,11 @@ display(m)
 
 ![](densidade_igrejas_jf.png)
 
-Referências:
+**Considerações finais**
+
+Baixa os arquivos .html para visualizar os mapas interativos no navegador da sua preferência.
+
+**Referências:**
 
 CNEFE:
 <https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html>
