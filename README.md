@@ -29,7 +29,7 @@ Escolha a Unidade Territorial(Município)<br>
 Selecione a UF<br>
 Baixe o arquivo compactado do município desejado
 
-## Importamos as bibiotecas
+## Importamos as bibliotecas
 
 ``` python
 import json
