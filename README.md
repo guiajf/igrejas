@@ -272,7 +272,7 @@ display(m)
 
 **Considerações finais**
 
-Baixe os arquivos .html para visualizar os mapas interativos no navegador da sua preferência.
+Baixe os arquivos .html para visualizar os mapas interativos no navegador de sua preferência.
 
 **Referências:**
 
