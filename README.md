@@ -101,8 +101,7 @@ display(m)  # Para Jupyter Notebook/Lab
 ### Shapefile do município
 
 Um shapefile (.shp) é um arquivo digital que contém a representação
-geográfica vetorial dos limites territoriais oficiais de um município
-brasileiro, conforme definido pelo IBGE. Esse formato, amplamente
+geográfica vetorial dos limites oficiais de uma entidade territorial, conforme definido pelo IBGE. Esse formato, amplamente
 utilizado em Sistemas de Informação Geográfica, armazena dados espaciais
 e atributos associados (como nome, código IBGE, área, etc.).
 
